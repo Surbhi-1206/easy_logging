@@ -20,7 +20,7 @@ setup(
     packages=find_packages(exclude=['tests', 'samples']),
     install_requires=['logstash-formatter'],
     url='',
-    license='BSD',
+    license='MIT',
     author='Surbhi Saraogi',
     author_email='surbhi.saraogi95@gmail.com',
     entry_points={
