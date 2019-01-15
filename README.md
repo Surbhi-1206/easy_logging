@@ -1,4 +1,4 @@
-# easy_logging
+# easy_logging_conifg
 An easy to use logging library which returns a basic logging configuration for any python application.
 
 - Class LogConfiguration accepts the root path of location to store log records
