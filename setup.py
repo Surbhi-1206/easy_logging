@@ -18,7 +18,7 @@ def get_version():
 
 
 setup(
-    name='easy_logging_conf',
+    name='easy_logging_config',
     version=get_version(),
     description='An easy to use logging library',
     long_description=long_description,
@@ -33,7 +33,7 @@ setup(
     ],
     packages=find_packages(exclude=['tests', 'samples']),
     install_requires=['logstash-formatter'],
-    url='https://github.com/Surbhi-1206/easy_logging_conf',
+    url='https://github.com/Surbhi-1206/easy_logging_config',
     entry_points={
     },
 )
